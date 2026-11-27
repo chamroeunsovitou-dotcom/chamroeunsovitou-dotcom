@@ -1,42 +1,50 @@
-<!-- Animated Wave Header Banner -->
-<img width="100%" src="https://vercel.app"/>
+<!-- Top Cyber/Modern Banner -->
+<div align="center">
+  <img width="100%" src="https://vercel.app"/>
+</div>
 
-<!-- Typing Text Animation -->
-<p align="center">
+<!-- Terminal Typing Animation -->
+<div align="center">
   <a href="https://git.io">
     <img src="https://demolab.com" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<!-- Two-Column Layout: About Me + Animated Coding GIF -->
-<table>
-  <tr>
-    <td width="60%">
-      <h3>🚀 About Me</h3>
-      <ul>
-        <li>🔭 Currently working on <b>personal & open-source projects</b></li>
-        <li>🌱 Currently learning <b>new frameworks and tools</b></li>
-        <li>💬 Ask me about <b>web development & programming</b></li>
-        <li>📫 Reach me via <b>GitHub (@chamroeunsovitou-dotcom)</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://githubusercontent.com" width="250" alt="Developer Coding Animation"/>
-    </td>
-  </tr>
-</table>
+<br/>
 
-### 🛠️ Tech Stack
-<p align="left">
+<!-- Interactive Terminal-Style Bio Card -->
+```yaml
+name: Chamroeun Sovitou
+username: chamroeunsovitou-dotcom
+location: Phnom Penh, Cambodia
+status: Building & Shipping Code
+focus:
+  - Full-Stack Architecture
+  - Clean & Scalable Systems
+  - Continuous Learning
+```
+
+<br/>
+
+### ⚡ Core Stack
+<div align="center">
   <img src="https://skillicons.dev" />
-</p>
+</div>
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
+<br/>
 
-<!-- Animated Footer -->
+### 📈 Engineering Metrics & Activity
+<div align="center">
+  <img height="170" src="https://vercel.app" />
+  <img height="170" src="https://herokuapp.com" />
+</div>
+
+<br/>
+
+<!-- Live Contribution Activity Graph -->
+<div align="center">
+  <img width="100%" src="https://vercel.app" />
+</div>
+
+<!-- Bottom Accent Line -->
 <img width="100%" src="https://vercel.app"/>
-
