@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there, I'm Vitou
 
-<!--
-**chamroeunsovitou-dotcom/chamroeunsovitou-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focused on **C++**, **back-end systems**, and **cybersecurity**. Currently building small, practical tools and sharpening my low-level programming skills.
 
-Here are some ideas to get you started:
+#### 🛠️ Core Stack & Tools
+- **Languages:** C++, C, Python, SQL
+- **Tools:** Git, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📌 Featured Projects
+- **[Project Name](https://github.com)** — A short, one-sentence description of what the project does and the problem it solves.
+- **[Password Manager CLI](https://github.com)** — A lightweight command-line tool built in C++ for local credential management.
+
+#### 📫 Connect
+- [GitHub](https://github.com) • [LinkedIn](https://linkedin.com) • [Email](mailto:you@example.com)
+
