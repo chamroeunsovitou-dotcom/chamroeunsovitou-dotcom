@@ -48,3 +48,6 @@ focus:
 
 <!-- Bottom Accent Line -->
 <img width="100%" src="https://vercel.app"/>
+<div align="center">
+  <img src="https://shields.io" alt="Total Stars" />
+</div>
